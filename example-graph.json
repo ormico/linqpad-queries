@@ -1,0 +1,2503 @@
+[
+  {
+    "id": "fuscia-archive",
+    "adjacentIds": []
+  },
+  {
+    "id": "turquoise-encompassing",
+    "adjacentIds": [
+      "fuscia-archive"
+    ]
+  },
+  {
+    "id": "indigo-national",
+    "adjacentIds": [
+      "turquoise-encompassing"
+    ]
+  },
+  {
+    "id": "orange-zero-administration",
+    "adjacentIds": [
+      "indigo-national"
+    ]
+  },
+  {
+    "id": "blue-solution",
+    "adjacentIds": [
+      "orange-zero-administration"
+    ]
+  },
+  {
+    "id": "mauv-optimizing",
+    "adjacentIds": [
+      "blue-solution"
+    ]
+  },
+  {
+    "id": "goldenrod-collaboration",
+    "adjacentIds": [
+      "mauv-optimizing"
+    ]
+  },
+  {
+    "id": "blue-firmware",
+    "adjacentIds": [
+      "goldenrod-collaboration"
+    ]
+  },
+  {
+    "id": "green-bottom-line",
+    "adjacentIds": [
+      "blue-firmware"
+    ]
+  },
+  {
+    "id": "red-leading-edge",
+    "adjacentIds": [
+      "green-bottom-line"
+    ]
+  },
+  {
+    "id": "mauv-implementation",
+    "adjacentIds": [
+      "red-leading-edge"
+    ]
+  },
+  {
+    "id": "puce-enhanced",
+    "adjacentIds": [
+      "mauv-implementation"
+    ]
+  },
+  {
+    "id": "fuscia-national",
+    "adjacentIds": [
+      "puce-enhanced"
+    ]
+  },
+  {
+    "id": "puce-attitude-oriented",
+    "adjacentIds": [
+      "fuscia-national"
+    ]
+  },
+  {
+    "id": "yellow-standardization",
+    "adjacentIds": [
+      "puce-attitude-oriented"
+    ]
+  },
+  {
+    "id": "khaki-static",
+    "adjacentIds": [
+      "yellow-standardization"
+    ]
+  },
+  {
+    "id": "turquoise-definition",
+    "adjacentIds": [
+      "khaki-static"
+    ]
+  },
+  {
+    "id": "red-profound",
+    "adjacentIds": [
+      "turquoise-definition"
+    ]
+  },
+  {
+    "id": "maroon-object-based",
+    "adjacentIds": [
+      "red-profound"
+    ]
+  },
+  {
+    "id": "blue-multi-channelled",
+    "adjacentIds": [
+      "maroon-object-based"
+    ]
+  },
+  {
+    "id": "turquoise-web-enabled",
+    "adjacentIds": [
+      "blue-multi-channelled"
+    ]
+  },
+  {
+    "id": "aquamarine-frame",
+    "adjacentIds": [
+      "turquoise-web-enabled"
+    ]
+  },
+  {
+    "id": "purple-array",
+    "adjacentIds": [
+      "aquamarine-frame"
+    ]
+  },
+  {
+    "id": "blue-superstructure",
+    "adjacentIds": [
+      "purple-array"
+    ]
+  },
+  {
+    "id": "maroon-robust",
+    "adjacentIds": [
+      "blue-superstructure"
+    ]
+  },
+  {
+    "id": "red-managed",
+    "adjacentIds": [
+      "maroon-robust"
+    ]
+  },
+  {
+    "id": "crimson-array",
+    "adjacentIds": [
+      "red-managed"
+    ]
+  },
+  {
+    "id": "puce-24-hour",
+    "adjacentIds": [
+      "crimson-array"
+    ]
+  },
+  {
+    "id": "turquoise-uniform",
+    "adjacentIds": [
+      "puce-24-hour"
+    ]
+  },
+  {
+    "id": "aquamarine-middleware",
+    "adjacentIds": [
+      "turquoise-uniform"
+    ]
+  },
+  {
+    "id": "maroon-encryption",
+    "adjacentIds": [
+      "aquamarine-middleware"
+    ]
+  },
+  {
+    "id": "puce-open-source",
+    "adjacentIds": [
+      "maroon-encryption"
+    ]
+  },
+  {
+    "id": "turquoise-process-improvement",
+    "adjacentIds": [
+      "maroon-encryption"
+    ]
+  },
+  {
+    "id": "purple-web-enabled",
+    "adjacentIds": [
+      "turquoise-process-improvement"
+    ]
+  },
+  {
+    "id": "crimson-web-enabled",
+    "adjacentIds": [
+      "turquoise-process-improvement"
+    ]
+  },
+  {
+    "id": "teal-analyzing",
+    "adjacentIds": [
+      "puce-open-source",
+      "crimson-web-enabled"
+    ]
+  },
+  {
+    "id": "red-optimizing",
+    "adjacentIds": [
+      "teal-analyzing"
+    ]
+  },
+  {
+    "id": "goldenrod-empowering",
+    "adjacentIds": [
+      "teal-analyzing"
+    ]
+  },
+  {
+    "id": "teal-task-force",
+    "adjacentIds": [
+      "purple-web-enabled",
+      "red-optimizing",
+      "goldenrod-empowering"
+    ]
+  },
+  {
+    "id": "maroon-public-key",
+    "adjacentIds": [
+      "teal-task-force"
+    ]
+  },
+  {
+    "id": "purple-assimilated",
+    "adjacentIds": [
+      "maroon-public-key"
+    ]
+  },
+  {
+    "id": "puce-system-worthy",
+    "adjacentIds": [
+      "purple-assimilated"
+    ]
+  },
+  {
+    "id": "crimson-alliance",
+    "adjacentIds": [
+      "puce-system-worthy"
+    ]
+  },
+  {
+    "id": "green-neural-net",
+    "adjacentIds": [
+      "puce-system-worthy"
+    ]
+  },
+  {
+    "id": "purple-zero-administration",
+    "adjacentIds": [
+      "green-neural-net"
+    ]
+  },
+  {
+    "id": "yellow-intuitive",
+    "adjacentIds": [
+      "crimson-alliance",
+      "purple-zero-administration"
+    ]
+  },
+  {
+    "id": "pink-customer-focused",
+    "adjacentIds": [
+      "yellow-intuitive"
+    ]
+  },
+  {
+    "id": "goldenrod-6th-generation",
+    "adjacentIds": [
+      "pink-customer-focused"
+    ]
+  },
+  {
+    "id": "turquoise-open-architecture",
+    "adjacentIds": [
+      "goldenrod-6th-generation"
+    ]
+  },
+  {
+    "id": "khaki-proactive",
+    "adjacentIds": [
+      "turquoise-open-architecture"
+    ]
+  },
+  {
+    "id": "mauv-toolset",
+    "adjacentIds": [
+      "khaki-proactive"
+    ]
+  },
+  {
+    "id": "orange-neural-net",
+    "adjacentIds": [
+      "mauv-toolset"
+    ]
+  },
+  {
+    "id": "green-incremental",
+    "adjacentIds": [
+      "orange-neural-net"
+    ]
+  },
+  {
+    "id": "purple-knowledge-base",
+    "adjacentIds": [
+      "green-incremental"
+    ]
+  },
+  {
+    "id": "maroon-user-centric",
+    "adjacentIds": [
+      "purple-knowledge-base"
+    ]
+  },
+  {
+    "id": "violet-hierarchy",
+    "adjacentIds": [
+      "maroon-user-centric"
+    ]
+  },
+  {
+    "id": "indigo-automated",
+    "adjacentIds": [
+      "violet-hierarchy"
+    ]
+  },
+  {
+    "id": "yellow-enterprise-wide",
+    "adjacentIds": [
+      "violet-hierarchy"
+    ]
+  },
+  {
+    "id": "blue-array",
+    "adjacentIds": [
+      "indigo-automated"
+    ]
+  },
+  {
+    "id": "mauv-analyzer",
+    "adjacentIds": [
+      "yellow-enterprise-wide",
+      "blue-array"
+    ]
+  },
+  {
+    "id": "mauv-intuitive",
+    "adjacentIds": [
+      "mauv-analyzer"
+    ]
+  },
+  {
+    "id": "green-system-worthy",
+    "adjacentIds": [
+      "mauv-intuitive"
+    ]
+  },
+  {
+    "id": "pink-homogeneous",
+    "adjacentIds": [
+      "green-system-worthy"
+    ]
+  },
+  {
+    "id": "khaki-task-force",
+    "adjacentIds": [
+      "pink-homogeneous"
+    ]
+  },
+  {
+    "id": "khaki-advanced",
+    "adjacentIds": [
+      "khaki-task-force"
+    ]
+  },
+  {
+    "id": "green-internet-solution",
+    "adjacentIds": [
+      "khaki-advanced"
+    ]
+  },
+  {
+    "id": "red-system-engine",
+    "adjacentIds": [
+      "green-internet-solution"
+    ]
+  },
+  {
+    "id": "khaki-multi-channelled",
+    "adjacentIds": [
+      "red-system-engine"
+    ]
+  },
+  {
+    "id": "indigo-function",
+    "adjacentIds": [
+      "khaki-multi-channelled"
+    ]
+  },
+  {
+    "id": "goldenrod-forecast",
+    "adjacentIds": [
+      "indigo-function"
+    ]
+  },
+  {
+    "id": "violet-self-enabling",
+    "adjacentIds": [
+      "goldenrod-forecast"
+    ]
+  },
+  {
+    "id": "goldenrod-reactive",
+    "adjacentIds": [
+      "violet-self-enabling"
+    ]
+  },
+  {
+    "id": "pink-core",
+    "adjacentIds": [
+      "goldenrod-reactive"
+    ]
+  },
+  {
+    "id": "fuscia-functionalities",
+    "adjacentIds": [
+      "pink-core"
+    ]
+  },
+  {
+    "id": "pink-5th-generation",
+    "adjacentIds": [
+      "fuscia-functionalities"
+    ]
+  },
+  {
+    "id": "teal-down-sized",
+    "adjacentIds": [
+      "fuscia-functionalities"
+    ]
+  },
+  {
+    "id": "green-24-hour",
+    "adjacentIds": [
+      "pink-5th-generation"
+    ]
+  },
+  {
+    "id": "turquoise-face-to-face",
+    "adjacentIds": [
+      "green-24-hour"
+    ]
+  },
+  {
+    "id": "goldenrod-instruction-set",
+    "adjacentIds": [
+      "turquoise-face-to-face"
+    ]
+  },
+  {
+    "id": "orange-optimal",
+    "adjacentIds": [
+      "goldenrod-instruction-set"
+    ]
+  },
+  {
+    "id": "yellow-array",
+    "adjacentIds": [
+      "orange-optimal"
+    ]
+  },
+  {
+    "id": "red-optimal",
+    "adjacentIds": [
+      "teal-down-sized",
+      "yellow-array"
+    ]
+  },
+  {
+    "id": "maroon-customizable",
+    "adjacentIds": [
+      "goldenrod-instruction-set"
+    ]
+  },
+  {
+    "id": "red-web-enabled",
+    "adjacentIds": [
+      "red-optimal",
+      "maroon-customizable"
+    ]
+  },
+  {
+    "id": "teal-radical",
+    "adjacentIds": [
+      "red-web-enabled"
+    ]
+  },
+  {
+    "id": "maroon-devolved",
+    "adjacentIds": [
+      "red-web-enabled"
+    ]
+  },
+  {
+    "id": "yellow-reactive",
+    "adjacentIds": [
+      "goldenrod-instruction-set"
+    ]
+  },
+  {
+    "id": "puce-de-engineered",
+    "adjacentIds": [
+      "teal-radical",
+      "maroon-devolved",
+      "yellow-reactive"
+    ]
+  },
+  {
+    "id": "yellow-ergonomic",
+    "adjacentIds": [
+      "teal-radical",
+      "maroon-devolved",
+      "yellow-reactive"
+    ]
+  },
+  {
+    "id": "purple-process-improvement",
+    "adjacentIds": [
+      "yellow-ergonomic"
+    ]
+  },
+  {
+    "id": "red-migration",
+    "adjacentIds": [
+      "yellow-ergonomic"
+    ]
+  },
+  {
+    "id": "goldenrod-optimizing",
+    "adjacentIds": [
+      "puce-de-engineered",
+      "purple-process-improvement",
+      "red-migration"
+    ]
+  },
+  {
+    "id": "khaki-reduced",
+    "adjacentIds": [
+      "goldenrod-optimizing"
+    ]
+  },
+  {
+    "id": "pink-motivating",
+    "adjacentIds": [
+      "khaki-reduced"
+    ]
+  },
+  {
+    "id": "indigo-user-friendly",
+    "adjacentIds": [
+      "pink-motivating"
+    ]
+  },
+  {
+    "id": "blue-high-level",
+    "adjacentIds": [
+      "indigo-user-friendly"
+    ]
+  },
+  {
+    "id": "khaki-zero-administration",
+    "adjacentIds": [
+      "blue-high-level"
+    ]
+  },
+  {
+    "id": "orange-projection",
+    "adjacentIds": [
+      "khaki-zero-administration"
+    ]
+  },
+  {
+    "id": "maroon-compatible",
+    "adjacentIds": [
+      "teal-down-sized",
+      "yellow-array"
+    ]
+  },
+  {
+    "id": "turquoise-business-focused",
+    "adjacentIds": [
+      "orange-projection"
+    ]
+  },
+  {
+    "id": "mauv-re-engineered",
+    "adjacentIds": [
+      "maroon-compatible"
+    ]
+  },
+  {
+    "id": "pink-radical",
+    "adjacentIds": [
+      "turquoise-business-focused",
+      "mauv-re-engineered"
+    ]
+  },
+  {
+    "id": "pink-scalable",
+    "adjacentIds": [
+      "pink-radical"
+    ]
+  },
+  {
+    "id": "teal-service-desk",
+    "adjacentIds": [
+      "pink-scalable"
+    ]
+  },
+  {
+    "id": "aquamarine-asymmetric",
+    "adjacentIds": [
+      "pink-radical"
+    ]
+  },
+  {
+    "id": "aquamarine-archive",
+    "adjacentIds": [
+      "teal-service-desk"
+    ]
+  },
+  {
+    "id": "teal-static",
+    "adjacentIds": [
+      "aquamarine-asymmetric",
+      "aquamarine-archive"
+    ]
+  },
+  {
+    "id": "violet-mission-critical",
+    "adjacentIds": [
+      "teal-static"
+    ]
+  },
+  {
+    "id": "orange-zero-tolerance1",
+    "adjacentIds": [
+      "aquamarine-asymmetric",
+      "aquamarine-archive"
+    ]
+  },
+  {
+    "id": "violet-open-architecture",
+    "adjacentIds": [
+      "teal-static",
+      "violet-mission-critical",
+      "orange-zero-tolerance1"
+    ]
+  },
+  {
+    "id": "puce-systemic",
+    "adjacentIds": [
+      "violet-open-architecture"
+    ]
+  },
+  {
+    "id": "crimson-streamlined",
+    "adjacentIds": [
+      "puce-systemic"
+    ]
+  },
+  {
+    "id": "puce-zero-defect",
+    "adjacentIds": [
+      "aquamarine-asymmetric",
+      "aquamarine-archive"
+    ]
+  },
+  {
+    "id": "puce-up-sized",
+    "adjacentIds": [
+      "crimson-streamlined",
+      "puce-zero-defect"
+    ]
+  },
+  {
+    "id": "violet-intuitive",
+    "adjacentIds": [
+      "puce-up-sized"
+    ]
+  },
+  {
+    "id": "purple-high-level",
+    "adjacentIds": [
+      "crimson-streamlined"
+    ]
+  },
+  {
+    "id": "crimson-bandwidth-monitored",
+    "adjacentIds": [
+      "puce-up-sized",
+      "purple-high-level"
+    ]
+  },
+  {
+    "id": "crimson-incremental",
+    "adjacentIds": [
+      "violet-intuitive",
+      "crimson-bandwidth-monitored"
+    ]
+  },
+  {
+    "id": "goldenrod-decentralized",
+    "adjacentIds": [
+      "crimson-incremental"
+    ]
+  },
+  {
+    "id": "goldenrod-right-sized",
+    "adjacentIds": [
+      "goldenrod-decentralized"
+    ]
+  },
+  {
+    "id": "pink-optimized",
+    "adjacentIds": [
+      "goldenrod-decentralized"
+    ]
+  },
+  {
+    "id": "green-focused",
+    "adjacentIds": [
+      "pink-optimized"
+    ]
+  },
+  {
+    "id": "pink-zero-tolerance",
+    "adjacentIds": [
+      "green-focused"
+    ]
+  },
+  {
+    "id": "purple-synergy",
+    "adjacentIds": [
+      "pink-zero-tolerance"
+    ]
+  },
+  {
+    "id": "pink-neutral",
+    "adjacentIds": [
+      "goldenrod-right-sized",
+      "purple-synergy"
+    ]
+  },
+  {
+    "id": "turquoise-frame",
+    "adjacentIds": [
+      "pink-neutral"
+    ]
+  },
+  {
+    "id": "puce-versatile",
+    "adjacentIds": [
+      "turquoise-frame"
+    ]
+  },
+  {
+    "id": "mauv-focus-group",
+    "adjacentIds": [
+      "puce-versatile"
+    ]
+  },
+  {
+    "id": "orange-user-friendly",
+    "adjacentIds": [
+      "puce-versatile"
+    ]
+  },
+  {
+    "id": "orange-contextually-based",
+    "adjacentIds": [
+      "puce-versatile"
+    ]
+  },
+  {
+    "id": "purple-non-volatile",
+    "adjacentIds": [
+      "orange-user-friendly",
+      "orange-contextually-based"
+    ]
+  },
+  {
+    "id": "aquamarine-explicit",
+    "adjacentIds": [
+      "purple-non-volatile"
+    ]
+  },
+  {
+    "id": "aquamarine-explicit",
+    "adjacentIds": [
+      "purple-non-volatile"
+    ]
+  },
+  {
+    "id": "pink-demand-driven",
+    "adjacentIds": [
+      "orange-contextually-based"
+    ]
+  },
+  {
+    "id": "red-incremental",
+    "adjacentIds": [
+      "purple-non-volatile"
+    ]
+  },
+  {
+    "id": "fuscia-motivating",
+    "adjacentIds": [
+      "red-incremental"
+    ]
+  },
+  {
+    "id": "turquoise-service-desk",
+    "adjacentIds": [
+      "aquamarine-explicit",
+      "pink-demand-driven",
+      "red-incremental"
+    ]
+  },
+  {
+    "id": "fuscia-methodology",
+    "adjacentIds": [
+      "fuscia-motivating",
+      "turquoise-service-desk"
+    ]
+  },
+  {
+    "id": "pink-encompassing",
+    "adjacentIds": [
+      "aquamarine-explicit",
+      "pink-demand-driven",
+      "fuscia-motivating"
+    ]
+  },
+  {
+    "id": "blue-transitional",
+    "adjacentIds": [
+      "fuscia-methodology"
+    ]
+  },
+  {
+    "id": "blue-collaboration",
+    "adjacentIds": [
+      "blue-transitional"
+    ]
+  },
+  {
+    "id": "maroon-paradigm",
+    "adjacentIds": [
+      "turquoise-service-desk",
+      "pink-encompassing"
+    ]
+  },
+  {
+    "id": "orange-interface",
+    "adjacentIds": [
+      "mauv-focus-group",
+      "blue-collaboration",
+      "maroon-paradigm"
+    ]
+  },
+  {
+    "id": "indigo-seamless",
+    "adjacentIds": [
+      "orange-interface"
+    ]
+  },
+  {
+    "id": "goldenrod-maximized",
+    "adjacentIds": [
+      "turquoise-service-desk",
+      "pink-encompassing"
+    ]
+  },
+  {
+    "id": "aquamarine-knowledge-user",
+    "adjacentIds": [
+      "indigo-seamless",
+      "goldenrod-maximized"
+    ]
+  },
+  {
+    "id": "maroon-software",
+    "adjacentIds": [
+      "aquamarine-knowledge-user"
+    ]
+  },
+  {
+    "id": "aquamarine-client-server",
+    "adjacentIds": [
+      "maroon-software"
+    ]
+  },
+  {
+    "id": "red-responsive",
+    "adjacentIds": [
+      "aquamarine-client-server"
+    ]
+  },
+  {
+    "id": "purple-architecture",
+    "adjacentIds": [
+      "aquamarine-client-server"
+    ]
+  },
+  {
+    "id": "indigo-intranet",
+    "adjacentIds": [
+      "red-responsive"
+    ]
+  },
+  {
+    "id": "turquoise-grass-roots",
+    "adjacentIds": [
+      "indigo-intranet"
+    ]
+  },
+  {
+    "id": "red-human-resource",
+    "adjacentIds": [
+      "purple-architecture",
+      "turquoise-grass-roots"
+    ]
+  },
+  {
+    "id": "indigo-database",
+    "adjacentIds": [
+      "red-human-resource"
+    ]
+  },
+  {
+    "id": "puce-optimized",
+    "adjacentIds": [
+      "indigo-database"
+    ]
+  },
+  {
+    "id": "khaki-operative",
+    "adjacentIds": [
+      "puce-optimized"
+    ]
+  },
+  {
+    "id": "violet-throughput",
+    "adjacentIds": [
+      "puce-optimized"
+    ]
+  },
+  {
+    "id": "violet-open-system",
+    "adjacentIds": [
+      "puce-optimized"
+    ]
+  },
+  {
+    "id": "purple-right-sized",
+    "adjacentIds": [
+      "khaki-operative",
+      "violet-throughput",
+      "violet-open-system"
+    ]
+  },
+  {
+    "id": "fuscia-access",
+    "adjacentIds": [
+      "purple-right-sized"
+    ]
+  },
+  {
+    "id": "green-reciprocal",
+    "adjacentIds": [
+      "fuscia-access"
+    ]
+  },
+  {
+    "id": "violet-open-system",
+    "adjacentIds": [
+      "puce-optimized"
+    ]
+  },
+  {
+    "id": "indigo-innovative",
+    "adjacentIds": [
+      "khaki-operative",
+      "violet-throughput",
+      "violet-open-system"
+    ]
+  },
+  {
+    "id": "puce-encoding",
+    "adjacentIds": [
+      "green-reciprocal",
+      "indigo-innovative"
+    ]
+  },
+  {
+    "id": "blue-system-worthy",
+    "adjacentIds": [
+      "green-reciprocal",
+      "indigo-innovative"
+    ]
+  },
+  {
+    "id": "turquoise-fundamental",
+    "adjacentIds": [
+      "puce-encoding",
+      "blue-system-worthy"
+    ]
+  },
+  {
+    "id": "turquoise-automated",
+    "adjacentIds": [
+      "khaki-operative",
+      "violet-throughput",
+      "violet-open-system"
+    ]
+  },
+  {
+    "id": "aquamarine-persistent",
+    "adjacentIds": [
+      "turquoise-fundamental"
+    ]
+  },
+  {
+    "id": "maroon-automated",
+    "adjacentIds": [
+      "aquamarine-persistent"
+    ]
+  },
+  {
+    "id": "pink-matrix",
+    "adjacentIds": [
+      "maroon-automated"
+    ]
+  },
+  {
+    "id": "turquoise-enhanced",
+    "adjacentIds": [
+      "turquoise-automated",
+      "pink-matrix"
+    ]
+  },
+  {
+    "id": "yellow-implemented",
+    "adjacentIds": [
+      "turquoise-enhanced"
+    ]
+  },
+  {
+    "id": "yellow-mobile",
+    "adjacentIds": [
+      "turquoise-automated",
+      "aquamarine-persistent"
+    ]
+  },
+  {
+    "id": "fuscia-compatible",
+    "adjacentIds": [
+      "yellow-mobile"
+    ]
+  },
+  {
+    "id": "mauv-time-frame",
+    "adjacentIds": [
+      "fuscia-compatible"
+    ]
+  },
+  {
+    "id": "maroon-responsive",
+    "adjacentIds": [
+      "mauv-time-frame"
+    ]
+  },
+  {
+    "id": "green-multimedia",
+    "adjacentIds": [
+      "yellow-implemented",
+      "maroon-responsive"
+    ]
+  },
+  {
+    "id": "red-analyzing",
+    "adjacentIds": [
+      "green-multimedia"
+    ]
+  },
+  {
+    "id": "puce-model",
+    "adjacentIds": [
+      "red-analyzing"
+    ]
+  },
+  {
+    "id": "puce-systematic",
+    "adjacentIds": [
+      "puce-model"
+    ]
+  },
+  {
+    "id": "red-reverse-engineered",
+    "adjacentIds": [
+      "puce-systematic"
+    ]
+  },
+  {
+    "id": "puce-toolset",
+    "adjacentIds": [
+      "green-multimedia"
+    ]
+  },
+  {
+    "id": "maroon-open-system",
+    "adjacentIds": [
+      "puce-toolset"
+    ]
+  },
+  {
+    "id": "crimson-visionary",
+    "adjacentIds": [
+      "maroon-open-system"
+    ]
+  },
+  {
+    "id": "pink-solution",
+    "adjacentIds": [
+      "maroon-open-system"
+    ]
+  },
+  {
+    "id": "orange-alliance",
+    "adjacentIds": [
+      "maroon-open-system"
+    ]
+  },
+  {
+    "id": "maroon-superstructure",
+    "adjacentIds": [
+      "crimson-visionary",
+      "pink-solution",
+      "orange-alliance"
+    ]
+  },
+  {
+    "id": "green-adapter",
+    "adjacentIds": [
+      "maroon-superstructure"
+    ]
+  },
+  {
+    "id": "red-contingency",
+    "adjacentIds": [
+      "maroon-superstructure"
+    ]
+  },
+  {
+    "id": "turquoise-robust",
+    "adjacentIds": [
+      "red-reverse-engineered",
+      "green-adapter",
+      "red-contingency"
+    ]
+  },
+  {
+    "id": "mauv-productivity",
+    "adjacentIds": [
+      "turquoise-robust"
+    ]
+  },
+  {
+    "id": "khaki-well-modulated",
+    "adjacentIds": [
+      "red-reverse-engineered",
+      "green-adapter",
+      "red-contingency"
+    ]
+  },
+  {
+    "id": "goldenrod-exuding",
+    "adjacentIds": [
+      "khaki-well-modulated"
+    ]
+  },
+  {
+    "id": "aquamarine-coherent",
+    "adjacentIds": [
+      "mauv-productivity",
+      "goldenrod-exuding"
+    ]
+  },
+  {
+    "id": "turquoise-eco-centric",
+    "adjacentIds": [
+      "mauv-productivity",
+      "khaki-well-modulated"
+    ]
+  },
+  {
+    "id": "khaki-graphic-interface",
+    "adjacentIds": [
+      "aquamarine-coherent",
+      "turquoise-eco-centric"
+    ]
+  },
+  {
+    "id": "yellow-content-based",
+    "adjacentIds": [
+      "mauv-productivity",
+      "khaki-well-modulated"
+    ]
+  },
+  {
+    "id": "goldenrod-configurable",
+    "adjacentIds": [
+      "khaki-graphic-interface"
+    ]
+  },
+  {
+    "id": "maroon-ability",
+    "adjacentIds": [
+      "goldenrod-configurable"
+    ]
+  },
+  {
+    "id": "blue-static",
+    "adjacentIds": [
+      "maroon-ability"
+    ]
+  },
+  {
+    "id": "aquamarine-database",
+    "adjacentIds": [
+      "yellow-content-based",
+      "blue-static"
+    ]
+  },
+  {
+    "id": "purple-open-system",
+    "adjacentIds": [
+      "blue-static"
+    ]
+  },
+  {
+    "id": "violet-foreground",
+    "adjacentIds": [
+      "red-human-resource"
+    ]
+  },
+  {
+    "id": "turquoise-secured-line",
+    "adjacentIds": [
+      "fuscia-compatible",
+      "violet-foreground"
+    ]
+  },
+  {
+    "id": "khaki-complexity",
+    "adjacentIds": [
+      "mauv-productivity",
+      "khaki-well-modulated",
+      "turquoise-secured-line"
+    ]
+  },
+  {
+    "id": "green-initiative",
+    "adjacentIds": [
+      "blue-static"
+    ]
+  },
+  {
+    "id": "yellow-foreground",
+    "adjacentIds": [
+      "yellow-content-based",
+      "blue-static"
+    ]
+  },
+  {
+    "id": "orange-realigned",
+    "adjacentIds": [
+      "khaki-complexity",
+      "yellow-foreground"
+    ]
+  },
+  {
+    "id": "teal-contextually-based",
+    "adjacentIds": [
+      "purple-open-system",
+      "green-initiative",
+      "orange-realigned",
+      "khaki-well-modulated"
+    ]
+  },
+  {
+    "id": "teal-contextually-based",
+    "adjacentIds": [
+      "purple-open-system",
+      "green-initiative",
+      "orange-realigned",
+      "khaki-well-modulated"
+    ]
+  },
+  {
+    "id": "fuscia-fully-configurable",
+    "adjacentIds": [
+      "teal-contextually-based"
+    ]
+  },
+  {
+    "id": "blue-core",
+    "adjacentIds": [
+      "orange-realigned"
+    ]
+  },
+  {
+    "id": "violet-global",
+    "adjacentIds": [
+      "teal-contextually-based"
+    ]
+  },
+  {
+    "id": "indigo-throughput",
+    "adjacentIds": [
+      "aquamarine-database",
+      "blue-core",
+      "violet-global"
+    ]
+  },
+  {
+    "id": "indigo-decentralized",
+    "adjacentIds": [
+      "blue-core",
+      "violet-global"
+    ]
+  },
+  {
+    "id": "indigo-hybrid",
+    "adjacentIds": [
+      "blue-core",
+      "violet-global"
+    ]
+  },
+  {
+    "id": "khaki-intranet",
+    "adjacentIds": [
+      "indigo-hybrid"
+    ]
+  },
+  {
+    "id": "puce-reduced",
+    "adjacentIds": [
+      "khaki-intranet"
+    ]
+  },
+  {
+    "id": "blue-upward-trending",
+    "adjacentIds": [
+      "puce-reduced"
+    ]
+  },
+  {
+    "id": "orange-demand-driven",
+    "adjacentIds": [
+      "blue-upward-trending"
+    ]
+  },
+  {
+    "id": "orange-mission-critical",
+    "adjacentIds": [
+      "blue-upward-trending"
+    ]
+  },
+  {
+    "id": "mauv-secondary",
+    "adjacentIds": [
+      "fuscia-fully-configurable",
+      "blue-upward-trending"
+    ]
+  },
+  {
+    "id": "khaki-high-level",
+    "adjacentIds": [
+      "mauv-secondary"
+    ]
+  },
+  {
+    "id": "indigo-even-keeled",
+    "adjacentIds": [
+      "khaki-high-level"
+    ]
+  },
+  {
+    "id": "fuscia-switchable",
+    "adjacentIds": [
+      "indigo-even-keeled"
+    ]
+  },
+  {
+    "id": "mauv-client-server",
+    "adjacentIds": [
+      "fuscia-switchable"
+    ]
+  },
+  {
+    "id": "mauv-balanced",
+    "adjacentIds": [
+      "mauv-client-server"
+    ]
+  },
+  {
+    "id": "maroon-knowledge-user",
+    "adjacentIds": [
+      "mauv-balanced"
+    ]
+  },
+  {
+    "id": "yellow-data-warehouse",
+    "adjacentIds": [
+      "maroon-knowledge-user"
+    ]
+  },
+  {
+    "id": "fuscia-enterprise-wide",
+    "adjacentIds": [
+      "indigo-decentralized",
+      "orange-mission-critical",
+      "yellow-data-warehouse"
+    ]
+  },
+  {
+    "id": "fuscia-hub",
+    "adjacentIds": [
+      "indigo-decentralized",
+      "orange-mission-critical",
+      "maroon-knowledge-user"
+    ]
+  },
+  {
+    "id": "puce-incremental",
+    "adjacentIds": [
+      "yellow-data-warehouse",
+      "fuscia-hub"
+    ]
+  },
+  {
+    "id": "teal-software",
+    "adjacentIds": [
+      "fuscia-enterprise-wide",
+      "puce-incremental"
+    ]
+  },
+  {
+    "id": "yellow-composite",
+    "adjacentIds": [
+      "teal-software"
+    ]
+  },
+  {
+    "id": "red-homogeneous",
+    "adjacentIds": [
+      "indigo-decentralized",
+      "orange-mission-critical",
+      "yellow-data-warehouse"
+    ]
+  },
+  {
+    "id": "teal-persistent",
+    "adjacentIds": [
+      "teal-software",
+      "red-homogeneous"
+    ]
+  },
+  {
+    "id": "turquoise-organized",
+    "adjacentIds": [
+      "orange-demand-driven",
+      "teal-persistent"
+    ]
+  },
+  {
+    "id": "yellow-organic",
+    "adjacentIds": [
+      "teal-software"
+    ]
+  },
+  {
+    "id": "orange-zero-tolerance2",
+    "adjacentIds": [
+      "indigo-throughput",
+      "yellow-composite",
+      "turquoise-organized",
+      "yellow-organic"
+    ]
+  },
+  {
+    "id": "pink-orchestration",
+    "adjacentIds": [
+      "orange-zero-tolerance2"
+    ]
+  },
+  {
+    "id": "maroon-product",
+    "adjacentIds": [
+      "indigo-throughput",
+      "yellow-composite",
+      "turquoise-organized",
+      "yellow-organic"
+    ]
+  },
+  {
+    "id": "turquoise-ergonomic",
+    "adjacentIds": [
+      "maroon-product"
+    ]
+  },
+  {
+    "id": "crimson-help-desk",
+    "adjacentIds": [
+      "orange-zero-tolerance2"
+    ]
+  },
+  {
+    "id": "violet-analyzer",
+    "adjacentIds": [
+      "crimson-help-desk"
+    ]
+  },
+  {
+    "id": "red-stand-alone",
+    "adjacentIds": [
+      "violet-analyzer"
+    ]
+  },
+  {
+    "id": "blue-re-contextualized",
+    "adjacentIds": [
+      "red-stand-alone"
+    ]
+  },
+  {
+    "id": "blue-hierarchy",
+    "adjacentIds": [
+      "pink-orchestration"
+    ]
+  },
+  {
+    "id": "purple-public-key",
+    "adjacentIds": [
+      "pink-orchestration"
+    ]
+  },
+  {
+    "id": "maroon-utilisation",
+    "adjacentIds": [
+      "pink-orchestration",
+      "turquoise-ergonomic",
+      "crimson-help-desk"
+    ]
+  },
+  {
+    "id": "indigo-persistent",
+    "adjacentIds": [
+      "maroon-utilisation"
+    ]
+  },
+  {
+    "id": "maroon-systemic",
+    "adjacentIds": [
+      "maroon-utilisation"
+    ]
+  },
+  {
+    "id": "maroon-reduced",
+    "adjacentIds": [
+      "maroon-systemic"
+    ]
+  },
+  {
+    "id": "goldenrod-customer-loyalty",
+    "adjacentIds": [
+      "blue-re-contextualized",
+      "purple-public-key",
+      "blue-hierarchy",
+      "indigo-persistent"
+    ]
+  },
+  {
+    "id": "purple-application",
+    "adjacentIds": [
+      "maroon-reduced",
+      "goldenrod-customer-loyalty"
+    ]
+  },
+  {
+    "id": "red-fresh-thinking",
+    "adjacentIds": [
+      "purple-application"
+    ]
+  },
+  {
+    "id": "turquoise-3rd-generation",
+    "adjacentIds": [
+      "red-fresh-thinking"
+    ]
+  },
+  {
+    "id": "turquoise-client-driven",
+    "adjacentIds": [
+      "turquoise-3rd-generation"
+    ]
+  },
+  {
+    "id": "teal-distributed",
+    "adjacentIds": [
+      "turquoise-client-driven"
+    ]
+  },
+  {
+    "id": "green-high-level",
+    "adjacentIds": [
+      "teal-distributed"
+    ]
+  },
+  {
+    "id": "orange-synchronised",
+    "adjacentIds": [
+      "green-high-level"
+    ]
+  },
+  {
+    "id": "blue-forecast",
+    "adjacentIds": [
+      "teal-distributed"
+    ]
+  },
+  {
+    "id": "yellow-superstructure",
+    "adjacentIds": [
+      "orange-synchronised",
+      "blue-forecast"
+    ]
+  },
+  {
+    "id": "goldenrod-enterprise-wide",
+    "adjacentIds": [
+      "yellow-superstructure"
+    ]
+  },
+  {
+    "id": "goldenrod-enterprise-wide",
+    "adjacentIds": [
+      "yellow-superstructure"
+    ]
+  },
+  {
+    "id": "red-foreground",
+    "adjacentIds": [
+      "teal-distributed"
+    ]
+  },
+  {
+    "id": "aquamarine-triple-buffered",
+    "adjacentIds": [
+      "red-foreground"
+    ]
+  },
+  {
+    "id": "pink-analyzing",
+    "adjacentIds": [
+      "goldenrod-enterprise-wide",
+      "aquamarine-triple-buffered"
+    ]
+  },
+  {
+    "id": "mauv-organized",
+    "adjacentIds": [
+      "pink-analyzing"
+    ]
+  },
+  {
+    "id": "turquoise-profit-focused",
+    "adjacentIds": [
+      "mauv-organized"
+    ]
+  },
+  {
+    "id": "indigo-open-source",
+    "adjacentIds": [
+      "turquoise-profit-focused"
+    ]
+  },
+  {
+    "id": "orange-logistical",
+    "adjacentIds": [
+      "turquoise-profit-focused"
+    ]
+  },
+  {
+    "id": "crimson-projection",
+    "adjacentIds": [
+      "indigo-open-source",
+      "orange-logistical"
+    ]
+  },
+  {
+    "id": "orange-operative",
+    "adjacentIds": [
+      "crimson-projection"
+    ]
+  },
+  {
+    "id": "fuscia-systemic",
+    "adjacentIds": [
+      "orange-operative"
+    ]
+  },
+  {
+    "id": "crimson-customer-loyalty",
+    "adjacentIds": [
+      "fuscia-systemic"
+    ]
+  },
+  {
+    "id": "khaki-artificial-intelligence",
+    "adjacentIds": [
+      "orange-operative"
+    ]
+  },
+  {
+    "id": "teal-monitored",
+    "adjacentIds": [
+      "crimson-customer-loyalty",
+      "khaki-artificial-intelligence"
+    ]
+  },
+  {
+    "id": "turquoise-encryption",
+    "adjacentIds": [
+      "teal-monitored"
+    ]
+  },
+  {
+    "id": "puce-4th-generation",
+    "adjacentIds": [
+      "teal-monitored"
+    ]
+  },
+  {
+    "id": "khaki-internet-solution",
+    "adjacentIds": [
+      "puce-4th-generation"
+    ]
+  },
+  {
+    "id": "red-horizontal",
+    "adjacentIds": [
+      "turquoise-encryption",
+      "khaki-internet-solution"
+    ]
+  },
+  {
+    "id": "red-ameliorated",
+    "adjacentIds": [
+      "indigo-open-source",
+      "orange-logistical"
+    ]
+  },
+  {
+    "id": "mauv-fresh-thinking",
+    "adjacentIds": [
+      "indigo-open-source",
+      "orange-logistical"
+    ]
+  },
+  {
+    "id": "puce-upgradable",
+    "adjacentIds": [
+      "indigo-throughput",
+      "yellow-composite",
+      "turquoise-organized",
+      "yellow-organic",
+      "mauv-fresh-thinking"
+    ]
+  },
+  {
+    "id": "turquoise-mobile",
+    "adjacentIds": [
+      "orange-zero-tolerance2",
+      "puce-upgradable"
+    ]
+  },
+  {
+    "id": "maroon-system-engine",
+    "adjacentIds": [
+      "red-horizontal",
+      "red-ameliorated",
+      "turquoise-mobile"
+    ]
+  },
+  {
+    "id": "indigo-versatile",
+    "adjacentIds": [
+      "red-horizontal",
+      "red-ameliorated",
+      "turquoise-mobile"
+    ]
+  },
+  {
+    "id": "blue-systemic",
+    "adjacentIds": [
+      "indigo-versatile"
+    ]
+  },
+  {
+    "id": "violet-alliance",
+    "adjacentIds": [
+      "maroon-system-engine",
+      "blue-systemic"
+    ]
+  },
+  {
+    "id": "turquoise-software",
+    "adjacentIds": [
+      "violet-alliance"
+    ]
+  },
+  {
+    "id": "maroon-dedicated",
+    "adjacentIds": [
+      "maroon-system-engine",
+      "blue-systemic"
+    ]
+  },
+  {
+    "id": "turquoise-solution",
+    "adjacentIds": [
+      "turquoise-software",
+      "maroon-dedicated"
+    ]
+  },
+  {
+    "id": "violet-programmable",
+    "adjacentIds": [
+      "blue-systemic"
+    ]
+  },
+  {
+    "id": "maroon-fresh-thinking",
+    "adjacentIds": [
+      "violet-programmable"
+    ]
+  },
+  {
+    "id": "maroon-standardization",
+    "adjacentIds": [
+      "turquoise-solution"
+    ]
+  },
+  {
+    "id": "goldenrod-centralized",
+    "adjacentIds": [
+      "turquoise-solution"
+    ]
+  },
+  {
+    "id": "mauv-universal",
+    "adjacentIds": [
+      "maroon-fresh-thinking",
+      "maroon-standardization"
+    ]
+  },
+  {
+    "id": "goldenrod-centralized",
+    "adjacentIds": [
+      "turquoise-solution"
+    ]
+  },
+  {
+    "id": "puce-profound",
+    "adjacentIds": [
+      "goldenrod-centralized",
+      "mauv-universal"
+    ]
+  },
+  {
+    "id": "teal-stand-alone",
+    "adjacentIds": [
+      "puce-profound"
+    ]
+  },
+  {
+    "id": "indigo-local",
+    "adjacentIds": [
+      "teal-stand-alone"
+    ]
+  },
+  {
+    "id": "aquamarine-uniform",
+    "adjacentIds": [
+      "goldenrod-centralized",
+      "mauv-universal"
+    ]
+  },
+  {
+    "id": "violet-fresh-thinking",
+    "adjacentIds": [
+      "indigo-local",
+      "aquamarine-uniform"
+    ]
+  },
+  {
+    "id": "goldenrod-fresh-thinking",
+    "adjacentIds": [
+      "violet-fresh-thinking"
+    ]
+  },
+  {
+    "id": "blue-portal",
+    "adjacentIds": [
+      "violet-fresh-thinking"
+    ]
+  },
+  {
+    "id": "goldenrod-synchronised",
+    "adjacentIds": [
+      "blue-portal"
+    ]
+  },
+  {
+    "id": "khaki-exclusive",
+    "adjacentIds": [
+      "goldenrod-synchronised"
+    ]
+  },
+  {
+    "id": "maroon-monitored",
+    "adjacentIds": [
+      "khaki-exclusive"
+    ]
+  },
+  {
+    "id": "blue-portal",
+    "adjacentIds": [
+      "violet-fresh-thinking"
+    ]
+  },
+  {
+    "id": "goldenrod-synchronised",
+    "adjacentIds": [
+      "blue-portal"
+    ]
+  },
+  {
+    "id": "pink-persevering",
+    "adjacentIds": [
+      "blue-portal"
+    ]
+  },
+  {
+    "id": "violet-core",
+    "adjacentIds": [
+      "goldenrod-synchronised"
+    ]
+  },
+  {
+    "id": "crimson-persevering",
+    "adjacentIds": [
+      "violet-core"
+    ]
+  },
+  {
+    "id": "pink-projection",
+    "adjacentIds": [
+      "pink-persevering",
+      "crimson-persevering"
+    ]
+  },
+  {
+    "id": "indigo-project",
+    "adjacentIds": [
+      "pink-projection"
+    ]
+  },
+  {
+    "id": "purple-throughput",
+    "adjacentIds": [
+      "indigo-project"
+    ]
+  },
+  {
+    "id": "red-initiative",
+    "adjacentIds": [
+      "maroon-monitored",
+      "purple-throughput"
+    ]
+  },
+  {
+    "id": "violet-content-based",
+    "adjacentIds": [
+      "maroon-monitored",
+      "purple-throughput"
+    ]
+  },
+  {
+    "id": "orange-balanced",
+    "adjacentIds": [
+      "maroon-monitored",
+      "purple-throughput"
+    ]
+  },
+  {
+    "id": "puce-upward-trending",
+    "adjacentIds": [
+      "pink-persevering",
+      "crimson-persevering"
+    ]
+  },
+  {
+    "id": "aquamarine-system-worthy",
+    "adjacentIds": [
+      "puce-upward-trending"
+    ]
+  },
+  {
+    "id": "orange-solution-oriented",
+    "adjacentIds": [
+      "red-initiative",
+      "violet-content-based",
+      "orange-balanced",
+      "aquamarine-system-worthy"
+    ]
+  },
+  {
+    "id": "blue-exclusive",
+    "adjacentIds": [
+      "goldenrod-fresh-thinking",
+      "orange-solution-oriented"
+    ]
+  },
+  {
+    "id": "green-mandatory",
+    "adjacentIds": [
+      "blue-exclusive"
+    ]
+  },
+  {
+    "id": "violet-persistent",
+    "adjacentIds": [
+      "turquoise-actuating"
+    ]
+  },
+  {
+    "id": "turquoise-actuating",
+    "adjacentIds": [
+      "green-mandatory"
+    ]
+  },
+  {
+    "id": "aquamarine-multi-tiered",
+    "adjacentIds": [
+      "violet-persistent"
+    ]
+  },
+  {
+    "id": "goldenrod-visionary",
+    "adjacentIds": [
+      "aquamarine-multi-tiered"
+    ]
+  },
+  {
+    "id": "mauv-support",
+    "adjacentIds": [
+      "goldenrod-visionary"
+    ]
+  },
+  {
+    "id": "fuscia-help-desk",
+    "adjacentIds": [
+      "mauv-support"
+    ]
+  },
+  {
+    "id": "blue-enterprise-wide",
+    "adjacentIds": [
+      "violet-persistent"
+    ]
+  },
+  {
+    "id": "orange-multimedia",
+    "adjacentIds": [
+      "fuscia-help-desk",
+      "blue-enterprise-wide"
+    ]
+  },
+  {
+    "id": "orange-persevering",
+    "adjacentIds": [
+      "orange-multimedia"
+    ]
+  },
+  {
+    "id": "purple-sharable",
+    "adjacentIds": [
+      "orange-persevering"
+    ]
+  },
+  {
+    "id": "purple-model",
+    "adjacentIds": [
+      "purple-sharable"
+    ]
+  },
+  {
+    "id": "fuscia-fresh-thinking",
+    "adjacentIds": [
+      "purple-sharable"
+    ]
+  },
+  {
+    "id": "violet-circuit",
+    "adjacentIds": [
+      "orange-persevering"
+    ]
+  },
+  {
+    "id": "turquoise-directional",
+    "adjacentIds": [
+      "violet-circuit"
+    ]
+  },
+  {
+    "id": "teal-knowledge-user",
+    "adjacentIds": [
+      "purple-sharable"
+    ]
+  },
+  {
+    "id": "purple-website",
+    "adjacentIds": [
+      "purple-sharable"
+    ]
+  },
+  {
+    "id": "goldenrod-framework",
+    "adjacentIds": [
+      "fuscia-fresh-thinking"
+    ]
+  },
+  {
+    "id": "blue-optional",
+    "adjacentIds": [
+      "purple-model",
+      "fuscia-fresh-thinking",
+      "turquoise-directional",
+      "teal-knowledge-user",
+      "purple-website"
+    ]
+  },
+  {
+    "id": "yellow-switchable",
+    "adjacentIds": [
+      "purple-model",
+      "fuscia-fresh-thinking",
+      "turquoise-directional",
+      "teal-knowledge-user",
+      "purple-website"
+    ]
+  },
+  {
+    "id": "crimson-throughput",
+    "adjacentIds": [
+      "purple-model",
+      "turquoise-directional",
+      "teal-knowledge-user",
+      "purple-website",
+      "goldenrod-framework"
+    ]
+  },
+  {
+    "id": "green-grass-roots",
+    "adjacentIds": [
+      "blue-optional",
+      "yellow-switchable",
+      "crimson-throughput"
+    ]
+  },
+  {
+    "id": "teal-product",
+    "adjacentIds": [
+      "green-grass-roots"
+    ]
+  },
+  {
+    "id": "teal-client-server",
+    "adjacentIds": [
+      "green-grass-roots"
+    ]
+  },
+  {
+    "id": "indigo-dynamic",
+    "adjacentIds": [
+      "teal-product",
+      "teal-client-server"
+    ]
+  },
+  {
+    "id": "orange-core",
+    "adjacentIds": [
+      "indigo-dynamic"
+    ]
+  },
+  {
+    "id": "blue-team-oriented",
+    "adjacentIds": [
+      "orange-core"
+    ]
+  },
+  {
+    "id": "purple-persevering",
+    "adjacentIds": [
+      "blue-team-oriented"
+    ]
+  },
+  {
+    "id": "pink-de-engineered",
+    "adjacentIds": [
+      "blue-team-oriented"
+    ]
+  },
+  {
+    "id": "green-emulation",
+    "adjacentIds": [
+      "purple-persevering",
+      "pink-de-engineered"
+    ]
+  },
+  {
+    "id": "yellow-responsive",
+    "adjacentIds": [
+      "purple-persevering",
+      "pink-de-engineered"
+    ]
+  },
+  {
+    "id": "pink-background",
+    "adjacentIds": [
+      "green-emulation",
+      "yellow-responsive"
+    ]
+  },
+  {
+    "id": "crimson-optimized",
+    "adjacentIds": [
+      "orange-persevering"
+    ]
+  },
+  {
+    "id": "teal-holistic",
+    "adjacentIds": [
+      "pink-background",
+      "crimson-optimized"
+    ]
+  },
+  {
+    "id": "yellow-well-modulated",
+    "adjacentIds": [
+      "teal-holistic"
+    ]
+  },
+  {
+    "id": "mauv-reverse-engineered",
+    "adjacentIds": [
+      "teal-holistic"
+    ]
+  },
+  {
+    "id": "crimson-synergy",
+    "adjacentIds": [
+      "mauv-reverse-engineered"
+    ]
+  },
+  {
+    "id": "fuscia-profit-focused",
+    "adjacentIds": [
+      "yellow-well-modulated",
+      "crimson-synergy"
+    ]
+  },
+  {
+    "id": "mauv-client-driven",
+    "adjacentIds": [
+      "fuscia-profit-focused"
+    ]
+  },
+  {
+    "id": "indigo-business-focused",
+    "adjacentIds": [
+      "green-emulation",
+      "yellow-responsive"
+    ]
+  },
+  {
+    "id": "aquamarine-strategy",
+    "adjacentIds": [
+      "mauv-client-driven"
+    ]
+  },
+  {
+    "id": "violet-national",
+    "adjacentIds": [
+      "mauv-client-driven"
+    ]
+  },
+  {
+    "id": "green-managed",
+    "adjacentIds": [
+      "indigo-business-focused",
+      "aquamarine-strategy",
+      "violet-national"
+    ]
+  },
+  {
+    "id": "red-neural-net",
+    "adjacentIds": [
+      "indigo-business-focused",
+      "aquamarine-strategy",
+      "violet-national"
+    ]
+  },
+  {
+    "id": "blue-national",
+    "adjacentIds": [
+      "green-managed"
+    ]
+  },
+  {
+    "id": "violet-explicit",
+    "adjacentIds": [
+      "red-neural-net",
+      "blue-national"
+    ]
+  },
+  {
+    "id": "orange-utilisation",
+    "adjacentIds": [
+      "red-neural-net",
+      "blue-national"
+    ]
+  },
+  {
+    "id": "green-virtual",
+    "adjacentIds": [
+      "red-neural-net",
+      "blue-national"
+    ]
+  },
+  {
+    "id": "turquoise-policy",
+    "adjacentIds": [
+      "orange-utilisation",
+      "green-virtual"
+    ]
+  },
+  {
+    "id": "purple-4th-generation",
+    "adjacentIds": [
+      "turquoise-policy"
+    ]
+  },
+  {
+    "id": "maroon-user-facing",
+    "adjacentIds": [
+      "purple-4th-generation"
+    ]
+  },
+  {
+    "id": "maroon-persevering",
+    "adjacentIds": [
+      "purple-4th-generation"
+    ]
+  },
+  {
+    "id": "goldenrod-system-worthy",
+    "adjacentIds": [
+      "maroon-persevering"
+    ]
+  },
+  {
+    "id": "puce-next-generation",
+    "adjacentIds": [
+      "purple-4th-generation"
+    ]
+  },
+  {
+    "id": "turquoise-demand-driven",
+    "adjacentIds": [
+      "goldenrod-system-worthy",
+      "puce-next-generation"
+    ]
+  },
+  {
+    "id": "orange-extended",
+    "adjacentIds": [
+      "goldenrod-system-worthy",
+      "puce-next-generation"
+    ]
+  },
+  {
+    "id": "green-website",
+    "adjacentIds": [
+      "violet-explicit",
+      "turquoise-demand-driven",
+      "orange-extended"
+    ]
+  },
+  {
+    "id": "blue-projection",
+    "adjacentIds": [
+      "green-website"
+    ]
+  },
+  {
+    "id": "green-access",
+    "adjacentIds": [
+      "blue-projection"
+    ]
+  },
+  {
+    "id": "orange-implemented",
+    "adjacentIds": [
+      "maroon-user-facing",
+      "green-access"
+    ]
+  },
+  {
+    "id": "crimson-cross-platform",
+    "adjacentIds": [
+      "maroon-user-facing",
+      "green-access"
+    ]
+  },
+  {
+    "id": "fuscia-multi-tasking",
+    "adjacentIds": [
+      "crimson-cross-platform"
+    ]
+  },
+  {
+    "id": "green-collaboration",
+    "adjacentIds": [
+      "crimson-cross-platform"
+    ]
+  },
+  {
+    "id": "violet-synergy",
+    "adjacentIds": [
+      "orange-implemented",
+      "fuscia-multi-tasking",
+      "green-collaboration"
+    ]
+  },
+  {
+    "id": "fuscia-composite",
+    "adjacentIds": [
+      "orange-implemented",
+      "fuscia-multi-tasking",
+      "green-collaboration"
+    ]
+  },
+  {
+    "id": "green-stable",
+    "adjacentIds": [
+      "fuscia-composite"
+    ]
+  }
+]
