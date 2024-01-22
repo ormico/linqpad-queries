@@ -2,6 +2,9 @@
   <NuGetReference>Microsoft.Data.SqlClient</NuGetReference>
 </Query>
 
+/*
+todo: add a poly example
+*/
 void Main()
 {
 	SqlConnection con = null;
