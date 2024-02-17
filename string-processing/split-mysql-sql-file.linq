@@ -11,9 +11,6 @@ This algorithm groups drop and create commands into the same file for the same o
 This algorithm probably doesn't handle every syntax variation, but is designed to make it easy to break up large files
 with the most command basic syntax.
 
-TODO:
-	* add option to include MySQL DELIMITER
-
 SQL OBJECTS HANDLED:
 	* trigger
 	* procedure
@@ -25,14 +22,9 @@ KNOWN LIMITATIONS:
 void Main()
 {
 	var fpInput = new FilePicker().Dump("Pick input file. Output files will be created in subfolder named './split-files/'");
-
-	var groupDropAndCreateRadio = new RadioButton("Group Drop & Create", "Group Drop & Create", true).Dump();
-	var dontGroupDropAndCreateRadio = new RadioButton("Group Drop & Create", "Place Drop & Create in seperate Files").Dump();
-
 	var button = new Button("Go").Dump("Click Button to start conversion");
 	button.Click += (sender, args) =>
 	{
-		this.GroupDropAndCreate = groupDropAndCreateRadio.Checked;
 		Console.WriteLine("-------> Running...");
 		var fileName = fpInput.Text;
 		Console.WriteLine(fileName);
@@ -43,8 +35,6 @@ void Main()
 }
 
 string outputFolder = "";
-
-public bool GroupDropAndCreate { get; set; }
 
 void ParseSqlFile(StreamReader sr, string outputFolder)
 {
@@ -465,16 +455,8 @@ void WriteSqlObjects(bool all=false)
 		var kvv = kv.Value;
 		if(kvv.IsComplete || all)
 		{
-			Console.WriteLine($"* {kv.Key}{(kvv.IsComplete ? "" : " !")}");
-			if (this.GroupDropAndCreate)
-			{
-				WriteFile(kvv.ToString(), $"{kv.Key}.{kvv.SqlObjectType}.sql");
-			}
-			else
-			{
-				WriteFile(kvv.DropSql + Environment.NewLine, $"{kv.Key}-1d.{kvv.SqlObjectType}.sql");
-				WriteFile(kvv.CreateSql + Environment.NewLine, $"{kv.Key}-2c.{kvv.SqlObjectType}.sql");
-			}
+			Console.WriteLine($"* {kv.Key}{(kvv.IsComplete ? "":" !")}");
+			WriteFile(kvv.ToString(), $"{kv.Key}.{kvv.SqlObjectType}.sql");
 			this.sqlObjectDict.Remove(kv.Key);
 		}
 	}
